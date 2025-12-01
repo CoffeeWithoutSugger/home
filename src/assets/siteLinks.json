@@ -1,14 +1,14 @@
 [
   {
-    "icon": "MonitorHeartRound",
+    "icon": "WatchmanMonitoring",
     "name": "天机监控",
     "link": "https://tj.brandon.eu.org/"
   },{
-    "icon": "EditNoteRound",
+    "icon": "StickyNote",
     "name": "笔记",
     "link": "https://blinko.brandon.eu.org/"
   },{
-    "icon": "CalendarTools",
+    "icon": "Toolbox",
     "name": "ItTools",
     "link": "https://it-tools.brandon.eu.org/"
   },{
